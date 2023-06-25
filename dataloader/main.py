@@ -1,4 +1,4 @@
 import os
 
 if __name__ == main:
-    print("hello!")
+    print("hello, nice to meet you!")
